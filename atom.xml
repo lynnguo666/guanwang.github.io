@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lynnguo666.github.io/</id>
     <title>LynnGuo666官网</title>
-    <updated>2019-06-06T05:00:54.160Z</updated>
+    <updated>2019-06-08T14:23:40.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lynnguo666.github.io/"/>
     <link rel="self" href="https://lynnguo666.github.io//atom.xml"/>
@@ -10,4 +10,17 @@
     <logo>https://lynnguo666.github.io//images/avatar.png</logo>
     <icon>https://lynnguo666.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, LynnGuo666官网</rights>
+    <entry>
+        <title type="html"><![CDATA[【推荐】历史爱好者入！推荐一款对学习历史有帮助的软件]]></title>
+        <id>https://lynnguo666.github.io//post/tuijian-app-0001</id>
+        <link href="https://lynnguo666.github.io//post/tuijian-app-0001">
+        </link>
+        <updated>2019-06-08T14:17:59.000Z</updated>
+        <content type="html"><![CDATA[<p>今天推荐给大家一款免费的学习历史的软件。
+软件基本信息：
+软件名：全历史
+文件大小：10.83MB
+下载地址：各大应用商店</p>
+]]></content>
+    </entry>
 </feed>
