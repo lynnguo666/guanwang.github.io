@@ -1,146 +1,114 @@
-
 <!DOCTYPE html>
-<html lang="zh-CN">
-<head>
- <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>酸奶发酵原理 | LynnGuo666官网</title>	
-</style>
-<link rel="stylesheet" href="https://lynnguo666.github.io//styles/main.css">
-<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>酸奶发酵原理 | LynnGuo666官网</title>
+<meta name="description" content="LynnGuo666官网，提供LynnGuo666软件下载，软件分享，网址导航">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://lynnguo666.github.io//favicon.ico?v=1563889819389">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<script type='text/javascript' src='https://lynnguo666.github.io//media/scripts/script.js'></script>
+<link rel="stylesheet" href="https://lynnguo666.github.io//styles/main.css">
 
-<style type="text/css">
-header {
-    text-align: center;
-    padding: 120px 0px 40px 0px;
-    background: #515865 center no-repeat;
-    font-size: 16px;
-    color: #fff;
-    background-size: cover;
-    background-image:url();
-}
-		</style>
 
- 	
-</head>
-<body class="post-template-default single single-post postid-70 single-format-standard">
-    <div id="wrapper">
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://lynnguo666.github.io/">
+        <img src="https://lynnguo666.github.io//images/avatar.png?v=1563889819389" class="site-logo">
+        <h1 class="site-title">LynnGuo666官网</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
         
-			
-		<header id="header ddq" class="site-header" 
-		
-		>
-			<div class="site-branding">
-									<h1 class="site-title"><a href="https://lynnguo666.github.io/" rel="home">LynnGuo666官网</a></h1>
-										
-					<h2 class="site-description">LynnGuo666官网，提供LynnGuo666软件下载，软件分享，网址导航</h2>
-										
-							</div>
-			<nav id="nav-wrapper">
-				<div class="container">
-					<div class="nav-toggle">
-						<div class="bars">
-							<div class="bar"></div>
-							<div class="bar"></div>
-							<div class="bar"></div>
-						</div>
-					</div><!-- /nav-toggle -->
-					<div class="clear"></div>
-					<ul id="" class="vtmenu">
-		 
-     			
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
-	 
-	<a  href="/"> 首页</a></li>
-	
-    
-     			
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
-	 
-	<a  href="/archives"> 归档</a></li>
-	
-    
-     			
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
-	 
-	<a  href="/tags"> 标签</a></li>
-	
-    
-     			
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
-	 
-	<a  href="/post/about"> 关于</a></li>
-	
-    
-     			
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
-	 
-	<a  href="/friend"> 友情链接</a></li>
-	
-    
-     			
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12">
-	 
-	<a  href="https://lynnguo666.github.io//post/wen-ti-fan-kui-ti-chu-jian-yi/"> 问题反馈</a></li>
-	
-    
-
-</ul>
-</li>		
-		
-</ul>				</div>
-			</nav><!-- #navigation -->
-						<div class="jingge">
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+        
+          <a href="/friend" class="site-nav">
+            友情链接
+          </a>
+        
+      
+        
+          <a href="https://lynnguo666.github.io//post/wen-ti-fan-kui-ti-chu-jian-yi/" class="site-nav">
+            问题反馈
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      LynnGuo666官网，提供LynnGuo666软件下载，软件分享，网址导航
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://lynnguo666.github.io" target="_blank">LynnGuo666</a> | <a class="rss" href="https://lynnguo666.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-        </header><!-- #masthead -->
-
-		<div id="content" class="container">
-			<div class="row">
-	<div class="col-md-8 site-main">
-				
-<article id="post-70" class="post-70 post type-post status-publish format-standard hentry category-5 tag-10 tag-9 tag-11">
-
-	
-	                      
-		<div class="entry-content">
-			<h1 class="entry-title">酸奶发酵原理</h1>
-<div class="entry-meta">
-	
-	           <a href="https://lynnguo666.github.io//post/suannaifajiao">
-							 <i class="iconfont icon-rili"> 
-							</i> 2019-06-09</a> 
-			
-</span>
-													 
-		</div>
-                  
-			<div class="entry-summary">
-				<p><p>生物学科实践作业</p>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">酸奶发酵原理</h2>
+            <div class="post-date">2019-06-09</div>
+            
+            <div class="post-content">
+              <p>生物学科实践作业</p>
 <p>班级：7.6</p>
 <p>姓名：郭子睿</p>
 <!-- more -->
@@ -164,141 +132,38 @@ header {
 <p>3.菌种不要加的太少，发酵酸度不够</p>
 <p>实验报告：<br>
 点击下载</p>
-</p>
-							</div>
-	<div class="vt-post-tags">
- 
-					</div>						
-<nav class="navigation3 post-navigation3" role="navigation">
-		
-		<div class="nav-links3">
-      
-		 
-		</div>
-	</nav>
-		</div>
-		
- 
-		
-</article>
 
-<div id="marlin_lite_about_widget-2" class="widget marlin_lite_about_widget">
-			<h4 class="widget-title">评论</h4>	
+            </div>
+            
+            
 
-			 
-   
-  
- 
+            
 
-		</div>
+          </div>
 
-			</div>
-			
-
-
-<div class="col l3 hide-on-med-and-down">
-	
-        <div class="toc-widget">
-			
-            <div class="toc-title"></div>
-			
-            <div id="toc-content">
-			
-			
-			</div>
         </div>
+      </div>
     </div>
 
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.5.0/tocbot.min.js"></script>
-<script>
-    $(function () {
-        tocbot.init({
-            tocSelector: '#toc-content',
-            contentSelector: '.entry-summary',
-            headingsOffset: -($(window).height() * 0.4 - 45),
-            // headingsOffset: -205,
-            headingSelector: 'h2, h3, h4'
-        });
+<script type="application/javascript">
 
-        // modify the toc link href to support Chinese.
-        let i = 0;
-        let tocHeading = 'toc-heading-';
-        $('#toc-content a').each(function () {
-            $(this).attr('href', '#' + tocHeading + (++i));
-        });
+AOS.init();
 
-        // modify the heading title id to support Chinese.
-        i = 0;
-        $('.entry-summary').children('h2, h3, h4').each(function () {
-            $(this).attr('id', tocHeading + (++i));
-        });
+hljs.initHighlightingOnLoad()
 
-        // Set scroll toc fixed.
-        let tocHeight = parseInt($(window).height() * 0.4 - 64);
-        let $tocWidget = $('.toc-widget');
-        $(window).scroll(function () {
-            let scroll = $(window).scrollTop();
-            /* add post toc fixed. */
-            if (scroll > tocHeight) {
-                $tocWidget.addClass('toc-fixed');
-            } else {
-                $tocWidget.removeClass('toc-fixed');
-            }
-        });
-    });
-</script>										 
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
- 
-       
-
-
-			</div>
-		</div>
-
-		
-		 	<footer id="colophon" class="site-footer">
-
-			<div class="container">
-	
-				<div class="copyright">Powered by <a href="https://lynnguo666.github.io" target="_blank">LynnGuo666</a><br>Theme:   <a href="https://github.com/alterfang/gridea-theme-pan" target="_blank" title="Pan"><span>Pan</span></a>. Powered by <a href="https://gridea.dev/" target="_blank" title="Gridea"><span>Gridea</span></a></div>		
-			</div><!-- .container -->
-		
-		</footer><!-- #colophon -->
-
-</div>
-
-<script src="https://cdn.bootcss.com/fitvids/1.2.0/jquery.fitvids.min.js"></script>
-<script type='text/javascript' src='https://lynnguo666.github.io//media/scripts/marlin-scripts.js'></script>
-
-		<script data-no-instant>
-    (function ($) {
-        $.extend({
-            adamsOverload: function () {
-                $('.navigation:eq(0)').remove();
-                $("").attr("rel" , "external");
-                $("a[rel='external'],a[rel='external nofollow']").attr("target","_blank");
-                $("a.vi").attr("rel" , "");
-                $.viewImage({
-                    'target'  : 'img',
-                    'exclude' : '.vsmile-icons img,.gallery img',
-                    'delay'   : 300
-                });
-                $.lately({
-                    'target' : '.commentmetadata a,.infos time,.post-list time'
-                });
-                prettyPrint();
-                
-                $('ul.links li a').each(function(){
-                    if($(this).parent().find('.bg').length==0){
-                        $(this).parent().append('<!---<div class="bg" style="background-image:url(https://c3.glgoo.top/s2/favicons?domain='+$(this).attr("href")+')"></div>--->')
-                    }
-                });
-            }
-        });
-    })(jQuery);
-    jQuery.adamsOverload();
 </script>
 
-</body>
+
+
+
+  </body>
 </html>
