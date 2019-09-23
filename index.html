@@ -16,19 +16,19 @@ function getCSS()
         datetoday.setTime(timenow);
         thehour = datetoday.getHours();
 
-        if (thehour<0)
+        if (thehour<22)
 
             display = "https://lynnguo666.github.io/media/css/night.css";
 
-       else if (thehour>0)
+       else if (thehour>5)
 
             display = "https://lynnguo666.github.io/media/css/night.css";   
 
-        else if (thehour>0)
+        else if (thehour>22)
            
             display = "https://lynnguo666.github.io/media/css/day.css";
 
-        else if (thehour<0)
+        else if (thehour<5)
 
             display = "https://lynnguo666.github.io/media/css/day.css";
       
