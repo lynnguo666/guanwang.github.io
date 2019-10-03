@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.lynnguo666.site</id>
-    <title>LynnGuo666官网</title>
-    <updated>2019-10-03T03:30:38.666Z</updated>
+    <title>LynnGuo666的博客</title>
+    <updated>2019-10-03T03:38:36.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.lynnguo666.site"/>
     <link rel="self" href="https://blog.lynnguo666.site/atom.xml"/>
-    <subtitle>LynnGuo666官网，提供LynnGuo666软件下载，软件分享，网址导航</subtitle>
+    <subtitle>LynnGuo666的博客，分享LynnGuo666的博文</subtitle>
     <logo>https://blog.lynnguo666.site/images/avatar.png</logo>
     <icon>https://blog.lynnguo666.site/favicon.ico</icon>
-    <rights>All rights reserved 2019, LynnGuo666官网</rights>
+    <rights>All rights reserved 2019, LynnGuo666的博客</rights>
     <entry>
         <title type="html"><![CDATA[下载]]></title>
         <id>https://blog.lynnguo666.site/post/xia-zai</id>
