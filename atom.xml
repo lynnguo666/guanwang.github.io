@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lynnguo666.github.io</id>
+    <id>https://blog.lynnguo666.site</id>
     <title>LynnGuo666官网</title>
-    <updated>2019-10-03T03:28:48.370Z</updated>
+    <updated>2019-10-03T03:30:38.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lynnguo666.github.io"/>
-    <link rel="self" href="https://lynnguo666.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.lynnguo666.site"/>
+    <link rel="self" href="https://blog.lynnguo666.site/atom.xml"/>
     <subtitle>LynnGuo666官网，提供LynnGuo666软件下载，软件分享，网址导航</subtitle>
-    <logo>https://lynnguo666.github.io/images/avatar.png</logo>
-    <icon>https://lynnguo666.github.io/favicon.ico</icon>
+    <logo>https://blog.lynnguo666.site/images/avatar.png</logo>
+    <icon>https://blog.lynnguo666.site/favicon.ico</icon>
     <rights>All rights reserved 2019, LynnGuo666官网</rights>
     <entry>
         <title type="html"><![CDATA[下载]]></title>
-        <id>https://lynnguo666.github.io/post/xia-zai</id>
-        <link href="https://lynnguo666.github.io/post/xia-zai">
+        <id>https://blog.lynnguo666.site/post/xia-zai</id>
+        <link href="https://blog.lynnguo666.site/post/xia-zai">
         </link>
         <updated>2019-09-22T05:52:37.000Z</updated>
         <summary type="html"><![CDATA[<p>在此您可以下载全部由林恩（LynnGuo666）整理/制作/破解/推荐的软件</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[问题反馈/提出建议]]></title>
-        <id>https://lynnguo666.github.io/post/wen-ti-fan-kui-ti-chu-jian-yi</id>
-        <link href="https://lynnguo666.github.io/post/wen-ti-fan-kui-ti-chu-jian-yi">
+        <id>https://blog.lynnguo666.site/post/wen-ti-fan-kui-ti-chu-jian-yi</id>
+        <link href="https://blog.lynnguo666.site/post/wen-ti-fan-kui-ti-chu-jian-yi">
         </link>
         <updated>2019-07-23T11:19:30.000Z</updated>
     </entry>
