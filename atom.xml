@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lynnguo666.site</id>
     <title>LynnGuo666的官网</title>
-    <updated>2019-10-03T04:10:27.891Z</updated>
+    <updated>2019-10-08T10:24:11.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.lynnguo666.site"/>
     <link rel="self" href="https://www.lynnguo666.site/atom.xml"/>
-    <subtitle>LynnGuo666的博客，提供LynnGuo666制作/破解/分享软件的下载</subtitle>
+    <subtitle>LynnGuo666官网，提供LynnGuo666制作/破解/分享软件的下载</subtitle>
     <logo>https://www.lynnguo666.site/images/avatar.png</logo>
     <icon>https://www.lynnguo666.site/favicon.ico</icon>
     <rights>All rights reserved 2019, LynnGuo666的官网</rights>
