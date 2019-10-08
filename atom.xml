@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lynnguo666.site</id>
     <title>LynnGuo666的官网</title>
-    <updated>2019-10-08T10:24:11.059Z</updated>
+    <updated>2019-10-08T10:37:12.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.lynnguo666.site"/>
     <link rel="self" href="https://www.lynnguo666.site/atom.xml"/>
@@ -10,17 +10,6 @@
     <logo>https://www.lynnguo666.site/images/avatar.png</logo>
     <icon>https://www.lynnguo666.site/favicon.ico</icon>
     <rights>All rights reserved 2019, LynnGuo666的官网</rights>
-    <entry>
-        <title type="html"><![CDATA[下载]]></title>
-        <id>https://www.lynnguo666.site/post/xia-zai</id>
-        <link href="https://www.lynnguo666.site/post/xia-zai">
-        </link>
-        <updated>2019-09-22T05:52:37.000Z</updated>
-        <summary type="html"><![CDATA[<p>在此您可以下载全部由林恩（LynnGuo666）整理/制作/破解/推荐的软件</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>在此您可以下载全部由林恩（LynnGuo666）整理/制作/破解/推荐的软件</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[问题反馈/提出建议]]></title>
         <id>https://www.lynnguo666.site/post/wen-ti-fan-kui-ti-chu-jian-yi</id>
