@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lynnguo666.site</id>
     <title>LynnGuo666官网</title>
-    <updated>2019-10-08T11:23:59.529Z</updated>
+    <updated>2019-10-08T11:25:20.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.lynnguo666.site"/>
     <link rel="self" href="https://www.lynnguo666.site/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://www.lynnguo666.site/post/Mvpy4lbkE">
         </link>
         <updated>2018-10-01T02:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3077271767,1877957904&amp;fm=26&amp;gp=0.jpg" alt="">Q1：你是谁？<br>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3077271767,1877957904&amp;fm=26&amp;gp=0.jpg" alt=""></figure>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3077271767,1877957904&amp;fm=26&amp;gp=0.jpg" alt=""></figure>
+<!-- more -->
+<p>Q1：你是谁？<br>
 A1：我是LynnGuo666，你可以直接叫我林恩。<br>
 Q2：这个网站是干什么的？<br>
 A2：这是我的个人网站，用于指引你前往各分站。<br>
