@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lynnguo666.site</id>
     <title>LynnGuo666官网</title>
-    <updated>2019-12-28T04:57:40.131Z</updated>
+    <updated>2019-12-28T07:41:09.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.lynnguo666.site"/>
     <link rel="self" href="https://www.lynnguo666.site/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://www.lynnguo666.site/images/avatar.png</logo>
     <icon>https://www.lynnguo666.site/favicon.ico</icon>
     <rights>All rights reserved 2019, LynnGuo666官网</rights>
+    <entry>
+        <title type="html"><![CDATA[私密Blog]]></title>
+        <id>https://www.lynnguo666.site/post/S1Ljpbpv-</id>
+        <link href="https://www.lynnguo666.site/post/S1Ljpbpv-">
+        </link>
+        <updated>2019-12-28T07:20:24.000Z</updated>
+        <content type="html"><![CDATA[<p>恭喜！发现LynnGuo666的私密Blog！<br>
+本Blog是一个私密平台，请保密哦！<br>
+一旦有LynnGuo666制作的新软件/破解的软件/被国内版权限制而无法呈现在大众面前的软件都会在这里发布！<br>
+http://lg6.lynnguo666.site</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Q&A]]></title>
         <id>https://www.lynnguo666.site/post/Mvpy4lbkE</id>
